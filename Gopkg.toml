@@ -83,5 +83,6 @@
 
 [metadata.heroku]
   root-package = "github.com/TrustWallet/statping"
+  go-version = "1.12.1"
 
 
